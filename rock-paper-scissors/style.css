@@ -1,0 +1,44 @@
+body {
+  padding: 20px;
+  color: #ececec;
+}
+
+h1, p {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #555555;
+}
+
+#rock, #paper, #scissors {
+  width: 100px;
+  height: 50px;
+  font-size: 16px;
+  background-color: #1C2833;
+  border-radius: 3px;
+  border: none;
+  color: #ececec;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, .2);
+}
+
+#startGame {
+  background-color: #B8860B;
+  width: 100px;
+  height: 50px;
+  font-size: 16px;
+  border-radius: 3px;
+  border: none;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, .2);
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+p {
+  color: #1C2833;
+}
