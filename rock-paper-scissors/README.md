@@ -3,21 +3,25 @@ You're going to program the classic game! In this app, the player will select wh
 ![rock paper scissors game](images/rock-paper-scissors.gif)
 
 ## To-Do
-* Add click events for each of the buttons
-* How will the browser decide which option to pick?
-* Compare the value the player picks with the value that the browser picks. Who wins in all given scenarios?
+* Add click events for each of the buttons ("Rock", "Paper", "Scissors", "Start game")
+ * See resource on Event Listeners
+* Decide how the browser will choose what option to pick
+ * Hint: the browser doesn't know what "scissors" is, but it could associate a given number with "scissors"; see resource on operations and Math.random
+* Compare the option that the user chooses with the option the browser chooses
+ * Write the logic to determine the winner for a given match-up; see resource on operations
 
 ## Expected outcomes
 See above GIF
 
 ## Dazzlers
 * Add images for the actual items
-* Mouseover events for existing buttons
-* Counter for how many games played
+* Add mouseover events for the "Rock", "Paper", "Scissors" buttons
+* Add a counter near the "Start game" button to track how many games have been played
 
-## Skills learned
-* Conditionals
-* Operations
+## Resources
+Here's a starter list of helpful documentation for the given project: 
+* [Event Listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+* [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+* [Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
 * [Math.random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-* Callbacks
 * [document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
