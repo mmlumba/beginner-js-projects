@@ -14,7 +14,7 @@ This is a web app that converts a given temperature (in either Fahrenheit or Cel
 * Add a section to convert the temperature into Kelvin from both units (and vice versa from Kelvin)
 
 ## Resources:
-Here's a starter list of helpful documentation for the given project: 
+Here's a starter list of helpful documentation for the given project:
 * [Passing parameters in functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * [Event Listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * [Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)

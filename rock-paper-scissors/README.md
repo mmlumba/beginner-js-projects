@@ -19,7 +19,7 @@ See above GIF
 * Add a counter near the "Start game" button to track how many games have been played
 
 ## Resources
-Here's a starter list of helpful documentation for the given project: 
+Here's a starter list of helpful documentation for the given project:
 * [Event Listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 * [Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
